@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'app-cobi-demo'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8d476f7be0e647d18d6eda2d3ca681f8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_271e6abd6ae14aba9de1838c5dbbf833 }}
         package: .
